@@ -25,3 +25,6 @@ const coke: Drink = ['Black', true, 40];
 const sprite: Drink = ['clear', true, 56];
 
 // Tuples are not used very often!!
+// Very reare, but can be used with CSV files.
+
+const carSpecs: [number, number] = [400, 3354];
