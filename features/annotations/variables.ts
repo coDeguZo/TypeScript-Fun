@@ -25,8 +25,8 @@ let myNumbers: number[] = [5, 6, 7, 8];
 let truths: boolean[] = [true, false, true];
 
 // Classes
-class Car {}
-let car: Car = new Car();
+// class Car {}
+// let car: Car = new Car();
 
 // Object Literal   Need a colon
 let point: { x: number; y: number } = {
