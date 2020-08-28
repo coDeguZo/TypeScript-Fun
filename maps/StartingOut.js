@@ -36,3 +36,6 @@
 // - Convention in TypeScript is tp never use export 
 //   'default' statements.  Helps with not worrying about
 //   curly braces.
+
+// Google Maps API Usuage
+// - Video 58 talks about how to get key
