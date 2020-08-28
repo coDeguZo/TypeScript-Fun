@@ -39,3 +39,7 @@
 
 // Google Maps API Usuage
 // - Video 58 talks about how to get key
+
+// Typical Typerscript File
+// - Interface definitions for working with this class
+// - Class Definition
